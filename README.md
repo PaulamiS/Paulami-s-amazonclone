@@ -5,7 +5,7 @@ A pixel-perfect Amazon website clone crafted with pure HTML and CSS. This projec
 
 View Project
 
-📸 Screenshot
+<img src="https://github.com/PaulamiS/Paulami-s-amazonclone/blob/main/amazonclone.jpeg">
 
 
 
